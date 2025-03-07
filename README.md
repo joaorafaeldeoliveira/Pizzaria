@@ -1,2 +1,2 @@
-VocÊ pode acessar o Pages em : 
+Você pode acessar o Pages em : 
 https://joaorafaeldeoliveira.github.io/Pizzaria/
